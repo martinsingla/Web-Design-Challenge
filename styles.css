@@ -1,0 +1,27 @@
+
+.navbar-light .navbar-brand {
+    background-color: #e95d32 ;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+  }
+
+.navbar-collapse {
+    position: absolute;
+    right: 20%;
+}
+
+.h-3{
+    color: #e95d32;
+}
+.h-5{
+    color: #e95d32;
+}
+
+@media (max-width: 650px) {
+    .container-fluid {
+     background-color: #e95d32;
+    }
+}
+
