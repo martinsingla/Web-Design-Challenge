@@ -19,6 +19,10 @@
     color: #e95d32;
 }
 
+.figure {
+    border: 1.5px solid #555;
+}
+
 @media (max-width: 650px) {
     .container-fluid {
      background-color: #e95d32;
